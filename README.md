@@ -37,13 +37,7 @@ It provides a **Graphical User Interface (GUI)** for easy interaction, data visu
 
 ## Team
 
-- **Aliaa Mohamed**  
-- **Gehad**  
-- **Fatma**  
-- **Alaa**  
-- **Ghada**  
-- **Waad**  
-- **Hend**
+**Aliaa | Gehad | Fatma | Alaa | Ghada | Waad | Hend**
 
 ---
 
